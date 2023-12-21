@@ -11,11 +11,12 @@
 <table>
   <td>정제 전 데이터셋 : 총 16,598개의 데이터</td>
    <tr>
-     <td><img width="700" alt="1980~2017 정제된 dataset" src="https://github.com/GOGUMAJELLY/AI_18_Setcion1-Project/assets/60537140/d5cc4384-f610-4444-8661-1ba676961901"></td>
+     <td><img width="700" alt="1980~2017 game data" src="https://github.com/GOGUMAJELLY/AI_18_Setcion1-Project/assets/60537140/a0a39db9-1a74-4011-a99a-3c3fc72aa986">
+></td>
    </tr>
   <td>정제 후 데이터셋 : 총 16,240개의 데이터</td>
   <tr>
-    <td><img width="700" alt="1980~2017 game data" src="https://github.com/GOGUMAJELLY/AI_18_Setcion1-Project/assets/60537140/879da321-efa1-4357-b05e-6b947dde5d74"></td>
+    <td><img width="700" alt="1980~2017 정제된 dataset" src="https://github.com/GOGUMAJELLY/AI_18_Setcion1-Project/assets/60537140/d5cc4384-f610-4444-8661-1ba676961901"></td>
   </tr>
 </table>
 
